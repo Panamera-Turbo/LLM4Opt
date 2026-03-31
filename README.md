@@ -79,6 +79,14 @@ The sharing principle of these references here is for research. If any authors d
 | ICML 2024 Workshop: AI for Math                      | [Link](https://sites.google.com/view/ai4mathworkshopicml2024)  |
 | NeurIPS 2024 Workshop: Multimodal Algorithmic Reasoning (MAR) | [Link](https://marworkshop.github.io/neurips24/) |
 | NeurIPS 2024 Workshop: The 4th Workshop on Mathematical Reasoning and AI | [Link](https://mathai2024.github.io/)  |
+| GECCO 2025 Workshop: Large Language Models for and with Evolutionary Computation (LLMfwEC) | [Link](https://gecco-2025.sigevo.org/Workshop?itemId=2840) |
+| AutoML 2025 Tutorial: LLM-Driven Algorithm Discovery & Tuning | [Link](https://2025.automl.cc/index.html%3Fp%3D2079.html) |
+| AGENTICS 2025 Tutorial: LLM-Driven AI Techniques Design and Discovery | [Link](https://agentics.scitevents.org/Tutorials.aspx?y=2025) |
+| WCCI 2026 Tutorial: LLM-driven Automated Algorithms Design | [Link](https://ailab.fai.utb.cz/tutorials/tutorials-llm-driven-automated-algorithms-design-wcci-2026/) |
+| CEC 2026 Tutorial: LLM-driven Automated Algorithm Design | [Link](https://naco.liacs.nl/events/llmdaad2026/) |
+| IEEE CAI 2026 Workshop: Bridging Evolutionary Computing and Large Language Models (BEComLLM) | [Link](https://www.ieeesmc.org/cai-2026/w5-becomllm/) |
+| Dagstuhl Seminar 26191 (2026): Large Language Models for Evolutionary Computation | [Link](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26191) |
+
 
 
 ## Competition
@@ -87,6 +95,10 @@ The sharing principle of these references here is for research. If any authors d
 | AAAI 2024 Global Competition on Math Problem Solving and Reasoning | [Link](https://ai4ed.cc/competitions/aaai2024competition)      |
 | ICML 2024 Challenges on Automated Math Reasoning       | [Link](https://sites.google.com/view/ai4mathworkshopicml2024/challenges) |
 | IEEE CIS 2024 Technical Challenge FLAME – ‘Fusing Large lAnguage Models with computational intElligence’  | [Link](https://cis.ieee.org/activities/educational-activites/competitions/flame-technical-challenge-2024) |
+| GECCO 2025 Competition on LLM-designed Evolutionary Algorithms | [Link](https://gecco-2025.sigevo.org/Competition?itemId=5104) |
+| GECCO 2026 Competition on LLM-designed Evolutionary Algorithms | [Link](https://sigevo.hosting.acm.org/gecco-2026/Competition?itemId=8275) |
+| CVRPLib 2026 Best Known Solution Challenge | [Overview](https://galgos.inf.puc-rio.br/cvrplib/index.php/en/bks_challenge/overview), [Scoreboard](https://galgos.inf.puc-rio.br/cvrplib/en/bks_challenge/score/) |
+| AIMO Prize | [Link](https://aimoprize.com/) |
 
 ## SpecialIssues
 | Event                                                | Link                                                  |
